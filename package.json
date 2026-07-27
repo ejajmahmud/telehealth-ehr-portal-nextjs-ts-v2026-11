@@ -1,0 +1,13 @@
+{
+  "name": "telehealth-ehr-portal-nextjs-ts-v2026-11",
+  "version": "1.0.0",
+  "description": "Telehealth & Electronic Health Records built with TypeScript / Next.js React App",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
